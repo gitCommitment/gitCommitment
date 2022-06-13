@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jordancodywerner@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Tb-OxRiR2rKwtatvGo0glVRK2MTlWjlV/edit?usp=sharing&ouid=104422405962861345790&rtpof=true&sd=true](https://docs.google.com/document/d/1Tb-OxRiR2rKwtatvGo0glVRK2MTlWjlV/edit?usp=sharing&ouid=104422405962861345790&rtpof=true&sd=true)
+- 📄 Know about my experiences [Direct Link To My Resume](https://docs.google.com/document/d/1Tb-OxRiR2rKwtatvGo0glVRK2MTlWjlV/edit?usp=sharing&ouid=104422405962861345790&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am a commercially rated helicopter pilot!**
 
