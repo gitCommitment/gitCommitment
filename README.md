@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordan Werner</h1>
 <h3 align="center">A passionate full-stack developer from the Seattle area.</h3>
 
-- 📫 How to reach me **jordancodywerner@gmail.com**
+- 📫 How to reach me: **jordancodywerner@gmail.com**
 
-- 📄 Know about my experiences [Direct Link To My Resume](https://docs.google.com/document/d/1Tb-OxRiR2rKwtatvGo0glVRK2MTlWjlV/edit?usp=sharing&ouid=104422405962861345790&rtpof=true&sd=true)
+- 📄 Know about my experiences: [Direct Link To My Resume](https://docs.google.com/document/d/1Tb-OxRiR2rKwtatvGo0glVRK2MTlWjlV/edit?usp=sharing&ouid=104422405962861345790&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am a commercially rated helicopter pilot!**
+- ⚡ Fun fact: **I am a commercially rated helicopter pilot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
